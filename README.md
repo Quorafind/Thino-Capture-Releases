@@ -2,16 +2,15 @@
 
 Release repo for Thino Capture.
 
+[中文](./README-ZH.md)
+
 ## How to Use
 
 1. You need Thino Pro in Obsidian on desktop.
 2. Enable local server in Thino Pro settings.
 3. Go to Chrome and install Thino Capture extension.
-
-- You can install it manually by downloading the extension
-  from [here](https://github.com/Quorafind/Thino-Capture-Releases/releases/latest/thino-capture.zip).
-- Unzip the file and load the extension in Chrome(With developer mode enabled).
-
+    - You can install it manually by downloading the extension from [here](https://github.com/Quorafind/Thino-Capture-Releases/releases/latest/thino-capture.zip).
+    - Unzip the file and load the extension in Chrome(With developer mode enabled).
 4. Click the extension icon and input your content. Or select content and then capture.
 
 ## Features
