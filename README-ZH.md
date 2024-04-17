@@ -1,5 +1,7 @@
 # Thino-Capture-Releases
 
+![Thino Capture](https://raw.githubusercontent.com/Quorafind/Thino-Capture-Releases/main/media/thino-capture.gif)
+
 发布 Thino Capture 的仓库。
 
 ## 如何使用

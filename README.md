@@ -1,5 +1,7 @@
 # Thino-Capture-Releases
 
+![Thino Capture](https://raw.githubusercontent.com/Quorafind/Thino-Capture-Releases/main/media/thino-capture.gif)
+
 Release repo for Thino Capture.
 
 [中文](./README-ZH.md)
