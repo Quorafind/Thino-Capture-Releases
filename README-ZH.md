@@ -7,7 +7,7 @@
 1. 你需要在 Obsidian 中安装 Thino 且为 Pro 用户。
 2. 在 Thino Pro 设置中启用本地服务器。
 3. 前往 Chrome 或者其它 Chrome 系浏览器并安装 Thino Capture 扩展。
-    - 你可以通过手动下载扩展包的方式安装： [这里](https://github.com/Quorafind/Thino-Capture-Releases/releases/latest/thino-capture.zip).
+    - 你可以通过手动下载扩展包的方式安装： [这里](https://github.com/Quorafind/Thino-Capture-Releases/releases/latest).
     - 解压文件并在 Chrome 中加载扩展(开发者模式已启用)
 4. 点击扩展图标并输入你的内容。或者选择内容然后捕获发送到 Thino。
 
